@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    /*background: #FFFF9D;*/
+    background-image: url("../Images/background.jpg");
+    background-repeat: no-repeat;
+    display:-webkit-box;
+    -webkit-box-orient:vertical;
+}
+
+#top_section{
+    display:-webkit-box;
+    -webkit-box-orient:horizontal;
+    background-image: url("../lgo.png");
+    background-repeat: no-repeat;
+    border-bottom: 1px solid #ff6238;
+    /*margin-left: 5px;*/
+}
+
+.input{
+    border: none;
+    height: 20px;
+    background: #ff6238;
+    margin-right: 0px;
+    padding: 2px;
+    color: white;
+}
+
+#username{
+    border-radius:  10px 0px 0px 10px;
+}
+
+.button{
+    border: none;
+    background: #00a388;
+    height: 24px;
+    border-radius: 0px 10px 10px 0px;
+    color: white;
+    margin-left: 0px;
+}
+
+#menu{
+    display:-webkit-box;
+    -webkit-box-orient:horizontal;
+}
+
+.menuItem{
+    margin-top: 70px;
+    margin-left: 75px;
+    color: #ff6238;
+    font-family: monospace, Helvetica, sans-serif;
+}
+
+.menuItem:hover{
+    color: #00a388;
+    cursor: pointer;
+}
+
+#signIn{
+    margin-left: 60px;
+    margin-top: 70px;
+}
+
+#middle_section{
+    background-image: url("../Images/circles.png");
+    background-size: 1200px;
+    background-repeat: no-repeat;
+    margin-left: 80px;
+    display:-webkit-box;
+    -webkit-box-orient:horizontal;
+    height: 650px;
+    margin-top: 580px;
+}
+
+#bottom_section{
+    height: 400px;
+    background: #33393c;
+}
+
+.menuTitle:hover{
+    opacity: 0.4;
+    cursor: pointer;
+}
+
+#one{
+    margin-top: 260px;
+    margin-left: 90px;
+    height: 80px;
+    width: 150px;
+}
+
+#two{
+    margin-top: 160px;
+    height: 80px;
+    width: 140px;
+}
+
+#three{
+    margin-top: 320px;
+    height: 80px;
+    width: 280px;
+}
+
+#four{
+    margin-top: 250px;
+    height: 80px;
+    width: 280px;
+}
+
+#five{
+    margin-top: 230px;
+    height: 80px;
+    width: 150px;
+}
