@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     /*background: #FFFF9D;*/
-    /*background-image: url("../Images/background.jpg");*/
+    background-image: url("../Images/background.jpg");
     background-repeat: no-repeat;
     display:-webkit-box;
     -webkit-box-orient:vertical;
