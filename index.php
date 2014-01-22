@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div id="signIn">                
-                <input type="text" id="username" class="input" placeholder="Username"><input type="password" id="password" class="input" placeholder="Username"><input type="submit" class="button" value="SUBMIT">                
+                <input type="text" id="username" class="input" placeholder="Username"><input type="password" id="password" class="input" placeholder="Password"><input type="submit" class="button" value="SUBMIT">                
             </div>
         </div>
         <div id="middle_section">
@@ -35,7 +35,7 @@
                 <img src="Images/news.png" height="32px"  class="menuTitle">
             </div>
             <div id="three">
-                <img src="Images/signup.png" height="45px"  class="menuTitle">
+                <a href="signup.php"><img src="Images/signup.png" height="45px"  class="menuTitle"></a>
             </div>
             <div id="four" >
                 <img src="Images/downloads.png" height="25px" class="menuTitle">

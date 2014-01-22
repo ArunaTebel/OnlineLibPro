@@ -2,7 +2,7 @@ body{
     margin: 0px;
     padding: 0px;
     /*background: #FFFF9D;*/
-    background-image: url("../Images/background.jpg");
+    /*background-image: url("../Images/background.jpg");*/
     background-repeat: no-repeat;
     display:-webkit-box;
     -webkit-box-orient:vertical;
@@ -62,14 +62,14 @@ body{
 }
 
 #middle_section{
-    background-image: url("../Images/circles.png");
+    /*background-image: url("../Images/circles.png");*/
     background-size: 1200px;
     background-repeat: no-repeat;
     margin-left: 80px;
     display:-webkit-box;
     -webkit-box-orient:horizontal;
     height: 650px;
-    margin-top: 580px;
+    margin-top: 50px;
 }
 
 #bottom_section{
